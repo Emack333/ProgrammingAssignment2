@@ -59,3 +59,7 @@ cacheSolve <- function(x, ...) {
 	x$setinverse(inverse_cache)
 	inverse_cache
 }
+
+
+
+#source: findings from internet
